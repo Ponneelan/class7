@@ -1,6 +1,7 @@
 # dynamicapp
 
 A new Flutter project.
+Develop a simple flutter application for increament and decrement the value using raised button
 
 ## Getting Started
 
